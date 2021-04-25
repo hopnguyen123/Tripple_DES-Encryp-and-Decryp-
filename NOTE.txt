@@ -1,0 +1,2 @@
+Plaintext: => Có thể tuỳ ý thay đổi (tuỳ người xử dụng)
+KEY1,KEY2,KEY3 nếu nhập (buộc phải nhập KEY có độ dài 16 kí tự (hệ hexa))
